@@ -1,0 +1,45 @@
+header{
+    background: lightgray;
+    text-align: center;
+    font-size: x-large;
+}
+aside{
+    text-align: center;
+    margin-top: 40px;
+    float: left;
+    height: 300px;
+    width: 900px;
+    display: inline-block;
+    background: lightgray;
+
+}
+
+section{
+    text-align: center;
+    margin-top: 40px;
+    float: right;
+    height: 300px;
+    width: 620px;
+    display: block;
+    background: lightgray;
+}
+
+footer{
+    margin-top: 380px;
+    text-align: center;
+    clear: both;
+    display: block;
+    background: lightgray;
+}
+.sectiontitles{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+article{
+    display: block;
+    background: gray;
+    margin: 20px 30px 30px 20px;
+}
